@@ -1,0 +1,22 @@
+{
+  "name": "holamundo",
+  "version": "1.0.0",
+  "description": "Hola mundo a node",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GyzusM/holamundo.git"
+  },
+  "author": "Jesus Moran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GyzusM/holamundo/issues"
+  },
+  "homepage": "https://github.com/GyzusM/holamundo#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
